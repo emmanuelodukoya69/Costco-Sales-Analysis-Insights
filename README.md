@@ -2,7 +2,7 @@
 
 <img width="666" height="375" alt="costco logo (1)" src="https://github.com/user-attachments/assets/b4a106b2-ae1e-485b-a7a2-d033459b2dd9" />
 
-**A 5-year Power BI dashboard analyzing Costco's global sales performance — revenue, profit, regions, and customer segments — built to support real-time, data-driven decision making.**
+**Welcome to the Power BI Sales Insights Dashboard, A 5-year Power BI dashboard analyzing Costco's global sales performance — revenue, profit, regions, and customer segments — built to support real-time, data-driven decision making.**
 
 <img width="756" height="432" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/f25318d5-6429-485a-b9c7-5802d30066b0" />
 
@@ -10,12 +10,16 @@
 
 ## Project Task
 
-<img width="666" height="375" alt="costco logo (1)" src="https://github.com/user-attachments/assets/feccbade-157f-4388-a4e2-8644cc061e91" />
+<img width="1359" height="619" alt="project task" src="https://github.com/user-attachments/assets/fd829f06-838e-4421-b718-bb216e975354" />
 
 
 The goal: analyze the data to uncover which products performed well each year, which categories generated profits or losses, and which regions excelled — then build a real-time dashboard for management to track business progress and make informed decisions.
 
 ---
+
+##  **Project Overview**
+
+The dashboard leverages **Power BI** to provide a data-driven approach for analyzing and visualizing key metrics, ensuring businesses can make informed decisions. From data preprocessing to creating dynamic visualizations, this project demonstrates a strong grasp of Power BI capabilities, including **Power Query**, **data modeling**, and **DAX formulas**.
 
 ## Dataset
 
