@@ -4,7 +4,7 @@
 
 **Welcome to the Power BI Sales Insights Dashboard, A 5-year Power BI dashboard analyzing Costco's global sales performance — revenue, profit, regions, and customer segments — built to support real-time, data-driven decision making.**
 
-<img width="1000" height="532" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/f25318d5-6429-485a-b9c7-5802d30066b0" />
+<img width="1000" height="600" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/f25318d5-6429-485a-b9c7-5802d30066b0" />
 
 ---
 
