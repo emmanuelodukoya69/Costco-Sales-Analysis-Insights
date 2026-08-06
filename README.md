@@ -1,6 +1,6 @@
 # Costco Global Sales Analysis (2020–2024)
 
-<img width="1000" height="375" alt="costco logo (1)" src="https://github.com/user-attachments/assets/b4a106b2-ae1e-485b-a7a2-d033459b2dd9" />
+<img width="1000" height="500" alt="costco logo (1)" src="https://github.com/user-attachments/assets/b4a106b2-ae1e-485b-a7a2-d033459b2dd9" />
 
 **Welcome to the Power BI Sales Insights Dashboard, A 5-year Power BI dashboard analyzing Costco's global sales performance — revenue, profit, regions, and customer segments — built to support real-time, data-driven decision making.**
 
